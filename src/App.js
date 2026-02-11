@@ -16,7 +16,7 @@ function App() {
   }
   function next() {
     if (step < 3) {
-      setStep(step + 1);
+      setStep(step + 2);
     }
   }
 
